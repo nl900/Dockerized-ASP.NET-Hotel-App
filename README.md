@@ -1,6 +1,6 @@
 **ASP.NET Web API**
 
-This web api is created using ASP.NET Core. The app allows for all necessary CRUD operations to add, delete, and update records stored in the MongoDB database.
+A web app written in ASP.NET Core listing hotels and associated information. The app supports all necessary CRUD operations to add, delete, and update records stored in the MongoDB database.
 
 **Model**  
 
@@ -10,4 +10,3 @@ This web api is created using ASP.NET Core. The app allows for all necessary CRU
 
 .NET Core SDK 3.0<br/>
 MongoDB
- 
