@@ -1,6 +1,6 @@
 **ASP.NET Web API**
 
-A web app written in ASP.NET Core listing hotels and associated information. The app supports all necessary CRUD operations to add, delete, and update records stored in the MongoDB database.
+A web app written in ASP.NET Core of hotel listings. The app supports all necessary CRUD operations to add, delete and update records stored in MongoDB database.
 
 **Model**  
 
