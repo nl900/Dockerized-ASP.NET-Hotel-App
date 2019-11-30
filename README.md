@@ -9,6 +9,6 @@ A dockerized web app written in ASP.NET Core returning hotel listings retrieved 
 **Requirements**
 
 .NET Core SDK 3.0<br/>
-MongoDB
-Docker Engine
-Docker Compose
+MongoDB<br/>
+Docker Engine<br/>
+Docker Compose<br/>
