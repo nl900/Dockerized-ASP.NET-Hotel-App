@@ -1,6 +1,6 @@
 **ASP.NET Web API**
 
-A web app written in ASP.NET Core of hotel listings. The app supports all necessary CRUD operations to add, delete and update records stored in MongoDB database.
+A dockerized web app written in ASP.NET Core returning hotel listings retrieved from MongoDB running as a container.
 
 **Model**  
 
@@ -10,3 +10,5 @@ A web app written in ASP.NET Core of hotel listings. The app supports all necess
 
 .NET Core SDK 3.0<br/>
 MongoDB
+Docker Engine
+Docker Compose
