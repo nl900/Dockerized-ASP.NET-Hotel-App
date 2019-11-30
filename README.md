@@ -1,6 +1,6 @@
 **ASP.NET Web API**
 
-A dockerized web app written in ASP.NET Core returning hotel listings retrieved from MongoDB running as a container.
+A dockerized web app written in ASP.NET Core returning hotel listings retrieved from MongoDB running also as a container.
 
 **Model**  
 
