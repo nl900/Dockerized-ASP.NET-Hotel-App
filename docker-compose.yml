@@ -1,0 +1,13 @@
+version: '3.4'
+
+services:
+  hotelapp:
+    image: ${DOCKER_REGISTRY-}hotelapp
+    build:
+      context: ./HotelApp
+      dockerfile: Dockerfile
+    ports:
+      - 8080:80
+
+  db:
+    image: mongo
